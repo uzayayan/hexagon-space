@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d2c51800c7b4f269d314245fb48937, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  GridSize: {x: 8, y: 9}
+  ScoreAdditive: 5
+  ScoreBonusMultiplier: 8
+  BombInitialPoint: 1000
+  BombInitialCounter: 10
+  Gravity: 0.25
+  Colors:
+  - {r: 0.9019608, g: 0.49411765, b: 0.13333334, a: 1}
+  - {r: 0.20392157, g: 0.59607846, b: 0.85882354, a: 1}
+  - {r: 0.18039216, g: 0.8, b: 0.44313726, a: 1}
+  - {r: 0.5568628, g: 0.26666668, b: 0.6784314, a: 1}
+  - {r: 0.90588236, g: 0.29803923, b: 0.23529412, a: 1}
+  SlotPrefab: {fileID: 8373810535076753371, guid: d7fb663756e4044b18d4d548a4626dfb,
+    type: 3}
+  HexagonPrefab: {fileID: 1642671186505375753, guid: b7507ec61a35e4dedbab3b6182fec29f,
+    type: 3}
+  BombPrefab: {fileID: 5830782621293533686, guid: ef4aad4fd759d40a9a54f431e79bcae8,
+    type: 3}
+  DebrisPrefab: {fileID: 6051257404323382875, guid: dcc7f4100704f47b289c70e91742dbfa,
+    type: 3}
+  ExplosionPrefab: {fileID: 6173167697803520258, guid: 1f38a8fcd249844f29ebdc48c35e8ac5,
+    type: 3}
+  FloatingTextPrefab: {fileID: 8100275913808682164, guid: 4f746366084f340508012f6b181cd810,
+    type: 3}
