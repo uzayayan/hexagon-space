@@ -13,7 +13,7 @@ Projede Kullanılan Paketler :
 
 # Game Settings #
 
-Resources klasörünün altında bulunan Game Seetings'den oyun içi bazı ayarları değiştirebiliyoruz. (Eğer Game Settings'de bir değişiklik yaparsak oyun içi bazı datalar cachelendiği için Player Prefsleride sıfrlamamız gerekiyor.)
+Resources klasörünün altında bulunan Game Settings'den oyun içi bazı ayarları değiştirebiliyoruz. (Eğer Game Settings'de bir değişiklik yaparsak oyun içi bazı datalar cachelendiği için Player Prefsleride sıfrlamamız gerekiyor.)
 
 ![alt tag](https://i.ibb.co/ww89gpH/Screen-Shot-2021-04-17-at-10-24-20.png)
 
