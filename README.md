@@ -1,7 +1,5 @@
 # hexagon-space
 
-Selamlar, Zaman ayırıp incelediğiniz için teşekkürler Vertigo!
-
 # Overview #
 
 Unity Sürümü : 2019.4.24f1
